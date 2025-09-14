@@ -1,14 +1,14 @@
 package br.com.devforge.main.exercise;
 
-public class Anagrama {
+public class Palindromo {
     public static void main(String[] args) {
         String[] testes = {"aibofobia", "jose", "ana", "pedro", "matheus", "ala", "ama"};
         for (String texto : testes) {
-            System.out.printf("%s é um palindromo ? %s\n", texto, ehAnagrama(texto));
+            System.out.printf("%s é um palindromo ? %s\n", texto, ehPalindromo(texto));
         }
     }
 
-    private static boolean ehAnagrama(String texto) {
+    private static boolean ehPalindromo(String texto) {
         if (texto.isBlank()) {
             return false;
         }
