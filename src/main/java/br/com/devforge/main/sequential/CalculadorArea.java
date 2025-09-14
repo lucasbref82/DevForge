@@ -1,7 +1,7 @@
-package br.com.devforge.sequential.main.sequential;
+package br.com.devforge.main.sequential;
 
-import br.com.devforge.sequential.factory.FormaGeometricaFactory;
-import br.com.devforge.sequential.itf.FormaGeometrica;
+import br.com.devforge.factory.FormaGeometricaFactory;
+import br.com.devforge.itf.FormaGeometrica;
 
 import java.util.Locale;
 import java.util.Scanner;

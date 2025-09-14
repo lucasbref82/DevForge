@@ -1,8 +1,8 @@
-package br.com.devforge.sequential.factory;
+package br.com.devforge.factory;
 
-import br.com.devforge.sequential.entity.Circulo;
-import br.com.devforge.sequential.entity.Retangulo;
-import br.com.devforge.sequential.itf.FormaGeometrica;
+import br.com.devforge.entity.Circulo;
+import br.com.devforge.entity.Retangulo;
+import br.com.devforge.itf.FormaGeometrica;
 
 import java.util.Scanner;
 

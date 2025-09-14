@@ -1,6 +1,6 @@
-package br.com.devforge.sequential.entity;
+package br.com.devforge.entity;
 
-import br.com.devforge.sequential.itf.FormaGeometrica;
+import br.com.devforge.itf.FormaGeometrica;
 
 public class Retangulo implements FormaGeometrica {
     private double base;

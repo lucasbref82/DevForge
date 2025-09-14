@@ -1,4 +1,4 @@
-package br.com.devforge.sequential.main.sequential;
+package br.com.devforge.main.sequential;
 
 import java.util.Locale;
 import java.util.Scanner;

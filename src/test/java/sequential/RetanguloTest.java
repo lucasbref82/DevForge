@@ -1,6 +1,6 @@
 package sequential;
 
-import br.com.devforge.sequential.entity.Retangulo;
+import br.com.devforge.entity.Retangulo;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

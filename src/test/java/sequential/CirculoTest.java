@@ -1,6 +1,6 @@
 package sequential;
 
-import br.com.devforge.sequential.entity.Circulo;
+import br.com.devforge.entity.Circulo;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
